@@ -1,0 +1,11 @@
+Quantity,Mean standard uncertainty,Unit
+PT1000 resistance,0.15775235793621278,ohm
+Calibration slope a,0.0022981719449061784,K/ohm
+Calibration intercept b,0.5814889896989847,K
+Sample temperature,0.4463272390318173,K
+SMU voltage,0.0001226042218394349,V
+SMU current,0.0029425717403388893,A
+Sample resistance,0.0004847479114916092,ohm
+Critical temperature,0.49163733853135305,K
+Effective sample radius,4.5015815807855306e-05,m
+Magnetic field,1.7287130692677017e-06,T
